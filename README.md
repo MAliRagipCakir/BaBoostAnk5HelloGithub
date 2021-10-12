@@ -22,6 +22,7 @@ Resim adını linki bulamadığında yazması bozuk olan url yi bulmamız için 
 Merhaba benim adım Ali. Ba-Boost-Ank-5 öğrencisiyim.
 
 ### Sınıf Listesi
+- Github adı: yigith [Yiğit Hacıefendioğlu](https://github.com/yigith)
 - Github adı: galipyildiz [Galip Yıldız](https://github.com/galipyildiz)
 - Github adı: BilgehanArici [Bilgehan Arıcı](https://github.com/BilgehanArici)
 - Github adı: sinaemre [Sina Emre Bekar](https://github.com/sinaemre)
